@@ -1,0 +1,18 @@
+body{
+	background:gray;
+}
+
+.container{
+	margin:20px 40px 0px 40px;
+}
+
+h1{
+	font-size: 36px;
+	font-weight: bolder;
+}
+
+.sw-img{
+	height:150px;
+	padding: 20px;
+	background-color: #fff;
+}
