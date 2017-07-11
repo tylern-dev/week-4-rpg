@@ -6,13 +6,47 @@ body{
 	margin:20px 40px 0px 40px;
 }
 
+header{
+	margin-bottom: 20px;
+}
+
 h1{
-	font-size: 36px;
+	font-size: 48px;
 	font-weight: bolder;
+}
+
+h2{
+	font-size: 30px;
+	font-weight: bold;
+	color:#fff;
 }
 
 .sw-img{
 	height:150px;
-	padding: 20px;
 	background-color: #fff;
+}
+
+.pic-container{
+	vertical-align: top;
+	display: inline-block;
+	text-align: center;
+	padding: 10px 20px;
+	background-color: #fff;
+
+
+}
+
+.char-name{
+	display: block;
+	font-size: 18px;
+}
+.hp{
+	font-size: 18px;
+	line-height: 10px;
+	display: block;
+	margin-top: 10px;
+}
+
+.character-button{
+	border: 5px solid green;
 }
