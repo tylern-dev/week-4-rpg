@@ -50,3 +50,7 @@ h2{
 .character-button{
 	border: 5px solid green;
 }
+
+.hidden{
+	display:none;
+}
